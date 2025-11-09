@@ -1,0 +1,52 @@
+Timestamp,Username,Type,Amount,Description
+10/29/2025 15:02,Nitin,Deposit,100,Initial deposit on account creation
+10/21/2025 16:55,charlie,Withdrawal,-3445.89,Online Payment
+10/27/2025 6:15,alice,Deposit,2393.36,Direct Deposit
+10/18/2025 10:29,bob,Transfer (Out),-765.34,Investment Transfer
+10/12/2025 11:35,bob,Transfer (In),2079.14,Loan Repayment
+10/24/2025 15:05,charlie,Withdrawal,-492.2,Online Payment
+10/18/2025 1:21,david,Deposit,1249.23,Mobile Check Deposit
+10/12/2025 4:30,alice,Transfer (Out),-2197.8,To Bob
+10/22/2025 9:37,eve,Withdrawal,-356.4,ATM Withdrawal
+10/26/2025 12:59,alice,Transfer (In),3124.67,From David
+10/19/2025 14:38,david,Deposit,368.1,Mobile Check Deposit
+10/9/2025 21:04,bob,Withdrawal,-331.43,ATM Withdrawal
+10/19/2025 13:42,eve,Transfer (In),3981.65,From Alice
+10/29/2025 3:22,alice,Deposit,399.78,ATM Deposit
+10/11/2025 14:09,charlie,Transfer (In),734.9,From David
+10/29/2025 18:03,bob,Withdrawal,-75.75,Online Payment
+10/28/2025 17:34,alice,Transfer (Out),-1988.11,Investment Transfer
+10/25/2025 15:43,charlie,Deposit,121.55,Mobile Check Deposit
+10/26/2025 9:12,david,Transfer (In),4833,Loan Repayment
+10/14/2025 5:27,alice,Withdrawal,-3997.53,Online Payment
+10/11/2025 7:18,eve,Transfer (Out),-58.74,Investment Transfer
+10/25/2025 16:51,bob,Deposit,468.99,ATM Deposit
+10/23/2025 18:25,alice,Withdrawal,-189.67,ATM Withdrawal
+10/29/2025 0:09,david,Transfer (In),310.21,Loan Repayment
+10/16/2025 11:27,charlie,Transfer (Out),-2144.15,To Bob
+10/26/2025 4:47,eve,Deposit,88.54,Mobile Check Deposit
+10/18/2025 19:10,bob,Deposit,2889.34,Direct Deposit
+10/29/2025 15:19,david,Withdrawal,-387.89,ATM Withdrawal
+10/6/2025 5:46,charlie,Transfer (In),2099.68,From David
+10/16/2025 2:45,alice,Transfer (In),2311.23,Loan Repayment
+10/27/2025 1:13,eve,Withdrawal,-158.42,Online Payment
+10/11/2025 20:23,david,Transfer (Out),-598.7,Investment Transfer
+10/17/2025 13:48,bob,Transfer (In),4900.55,Loan Repayment
+10/20/2025 22:58,charlie,Deposit,1001,Direct Deposit
+10/27/2025 7:31,david,Deposit,1444.67,Direct Deposit
+10/8/2025 19:54,alice,Withdrawal,-108.92,Online Payment
+10/27/2025 10:14,bob,Transfer (Out),-1456.78,Investment Transfer
+10/6/2025 18:27,eve,Deposit,3411.56,Mobile Check Deposit
+10/7/2025 15:47,charlie,Transfer (In),211.33,From Bob
+10/28/2025 1:18,david,Withdrawal,-2345.09,Online Payment
+10/15/2025 13:22,alice,Transfer (Out),-456.12,To Bob
+10/20/2025 3:07,bob,Deposit,77.89,ATM Deposit
+10/17/2025 7:16,charlie,Transfer (Out),-350.21,To Charlie
+10/26/2025 23:42,david,Deposit,4500,Direct Deposit
+10/13/2025 18:03,eve,Transfer (In),111.45,From David
+10/10/2025 11:51,alice,Withdrawal,-499,ATM Withdrawal
+10/22/2025 0:39,bob,Transfer (In),540.23,From Alice
+10/15/2025 9:28,charlie,Deposit,321.45,ATM Deposit
+10/14/2025 15:56,david,Transfer (Out),-1200,To Charlie
+10/10/2025 2:20,eve,Withdrawal,-98.76,Cash at Counter
+10/7/2025 0:06,alice,Deposit,288.45,Mobile Check Deposit
